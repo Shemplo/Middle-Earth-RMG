@@ -19,3 +19,27 @@ one knows what awaits you on that path, you may need a guide or strong army. Wel
 ### Rules
 
 _Rules is under correction now. Coming soon..._
+
+### Template
+
+![Template schema](template.png)
+
+### Artifacts
+
+_Rules is under correction now. Coming soon..._
+
+### Spells
+
+_Rules is under correction now. Coming soon..._
+
+### Heroes
+
+_Rules is under correction now. Coming soon..._
+
+### Skills
+
+_Rules is under correction now. Coming soon..._
+
+### Buildings
+
+_Rules is under correction now. Coming soon..._
