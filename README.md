@@ -20,6 +20,22 @@ one knows what awaits you on that path, you may need a guide or strong army. Wel
 
 _Rules is under correction now. Coming soon..._
 
+* You have to play with 1 hero which was chosen at the beginning of game. 
+You are defeated if you lose this hero (in any way).  
+    * If two heroes are lost (disappeared) after battle the winner is the player 
+    who make the last shot (even if it was made by summoned creature or magic spell).  
+    * If battle can't be finished (f.e. if two players have army of ghosts) the 
+    winner is the player with bigger sum of characteristics (if sums are equal 
+    then by tossing a coin).  
+* Since **126** you can recruit one more hero from tavern. This actions is allowed only once, it means
+that if you lose the second hero (even if it can surrender or retreat), you have to finish the game 
+having only 1 (main) hero. The second hero **can't attack** opponent heroes and **can't be attacked**
+with opponent heroes.  
+    * Second hero can't block path on road if there is only 1 tile in width between
+any obstacles. If second hero have no more move points and blocks the route then you have to banish him
+(and never buy any other second heroes).  
+* Restarts are allowed (?) times until 112 (inclusive).
+
 ### Template
 
 ![Template schema](template.png)
