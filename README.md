@@ -80,6 +80,8 @@ _Rules is under correction now. Coming soon..._
 
 _Rules is under correction now. Coming soon..._
 
+Banned:
+
 ![Armageddon](gfx/spells/armageddon.png) 
 ![Blind](gfx/spells/blind.png) 
 ![Cure](gfx/spells/cure.png) 
