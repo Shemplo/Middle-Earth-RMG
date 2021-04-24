@@ -73,6 +73,9 @@ Example of generated map using this template is following:
 
 _Rules is under correction now. Coming soon..._
 
+* All (almost) artifacts that give more than +2 characteristics to hero
+* All magic books
+
 ### Spells
 
 _Rules is under correction now. Coming soon..._
@@ -90,24 +93,24 @@ _Rules is under correction now. Coming soon..._
 
 _Rules is under correction now. Coming soon..._
 
-| Banned         | Motivation                                  |   | Allowed        | Motivation                                          |
-| :------------- | :------------------------------------------ | - | :------------- | :-------------------------------------------------- |
-| Path finding   | Permanent pick due to many "bad" surfaces   |   | Shooting       | Classical skill                                     |
-| Logistics      | Fastest roads should not be abused          |   | Exploration    | Map is big enough                                   |
-| Diplomacy      | I don't know, may be it will become allowed |   | Leadership     | I like soup of skeletons and fairies                |
-| Navigation     | Game should be on surface without water     |   | Wise           | Classical skill                                     |
-| Mysticism      | Use wells or don't use a magic a lot        |   | Luck           | Just for fun                                        |
-| Eagle eye      | Nobody choose this, don't waste your time   |   | Necromancy     | Skeletons, skeletons, skeletons, liches... liches?! |
-| Magic of fire  | Berserk on all your army?                   |   | Eastate        | Too many wants, too little gold                     |
-| Magic of water | I don't know, may be it will become allowed |   | Tactics        | Give a chance to warrior heroes stand for a berserk |
-| Magic of wind  | I don't know, may be it will become allowed |   | Attack         | Classical skill                                     |
-| Magic of earth | I'm lazy to write "why" for here            |   | Literacy       | You can have a second hero and far placed castles   |
-| Ballistics     | No attacks of well prepared castles         |   | Armor          | Classical skill                                     |
-| Learning       | I don't know, may be it will become allowed |   | Intelligence   | If you don't like to drink water from well          |
-| First aid      | I don't know, may be it will become allowed |   | Magic          | Classical skill                                     |
-|                |                                             |   | Resistance     | We! Are! RESISTANCE! Ommmmmm                        |
-|                |                                             |   | Artillery      | Last chance or firstly killed unit in the battle    |
-|                |                                             |   | Interference   | Nobody likes wizards with mana                      |
+| Banned                                                    | Motivation                                  |   | Allowed                                                  | Motivation                                          |
+| :-------------------------------------------------------- | :------------------------------------------ | - | :------------------------------------------------------- | :-------------------------------------------------- |
+| ![Skill](gfx/skills/Basic_Pathfinding.png) Pathfinding    | Permanent pick due to many "bad" surfaces   |   | ![Skill](gfx/skills/Basic_Archery.png)      Archery      | Classical skill                                     |
+| ![Skill](gfx/skills/Basic_Logistics.png)   Logistics      | Fastest roads should not be abused          |   | ![Skill](gfx/skills/Basic_Scouting.png)     Scouting     | Map is big enough                                   |
+| ![Skill](gfx/skills/Basic_Diplomacy.png)   Diplomacy      | I don't know, may be it will become allowed |   | ![Skill](gfx/skills/Basic_Leadership.png)   Leadership   | I like soup of skeletons and fairies                |
+| ![Skill](gfx/skills/Basic_Navigation.png)  Navigation     | Game should be on surface without water     |   | ![Skill](gfx/skills/Basic_Wisdom.png)       Wisdom       | Classical skill                                     |
+| ![Skill](gfx/skills/Basic_Mysticism.png)   Mysticism      | Use wells or don't use a magic a lot        |   | ![Skill](gfx/skills/Basic_Luck.png)         Luck         | Just for fun                                        |
+| ![Skill](gfx/skills/Basic_Eagle_Eye.png)   Eagle Eye      | Nobody choose this, don't waste your time   |   | ![Skill](gfx/skills/Basic_Necromancy.png)   Necromancy   | Skeletons, skeletons, skeletons, liches... liches?! |
+| ![Skill](gfx/skills/Basic_Fire_Magic.png)  Fire Magic     | Berserk on all your army?                   |   | ![Skill](gfx/skills/Basic_Estates.png)     Estates       | Too many wants, too little gold                     |
+| ![Skill](gfx/skills/Basic_Water_Magic.png) Water Magic    | I don't know, may be it will become allowed |   | ![Skill](gfx/skills/Basic_Tactics.png)      Tactics      | Give a chance to warrior heroes stand for a berserk |
+| ![Skill](gfx/skills/Basic_Air_Magic.png)   Air Magic      | I don't know, may be it will become allowed |   | ![Skill](gfx/skills/Basic_Offense.png)      Offense      | Classical skill                                     |
+| ![Skill](gfx/skills/Basic_Earth_Magic.png) Earth Magic    | I'm lazy to write "why" for here            |   | ![Skill](gfx/skills/Basic_Scholar.png)      Scholar      | You can have a second hero and far placed castles   |
+| ![Skill](gfx/skills/Basic_Ballistics.png)  Ballistics     | No attacks of well prepared castles         |   | ![Skill](gfx/skills/Basic_Armorer.png)      Armorer      | Classical skill                                     |
+| ![Skill](gfx/skills/Basic_Learning.png)    Learning       | I don't know, may be it will become allowed |   | ![Skill](gfx/skills/Basic_Intelligence.png) Intelligence | If you don't like to drink water from well          |
+| ![Skill](gfx/skills/Basic_First_Aid.png)   First Aid      | I don't know, may be it will become allowed |   | ![Skill](gfx/skills/Basic_Sorcery.png)      Sorcery      | Classical skill                                     |
+|                                                           |                                             |   | ![Skill](gfx/skills/Basic_Resistance.png)   Resistance   | We! Are! RESISTANCE! Ommmmmm                        |
+|                                                           |                                             |   | ![Skill](gfx/skills/Basic_Artillery.png)    Artillery    | Last chance or firstly killed unit in the battle    |
+|                                                           |                                             |   | ![Skill](gfx/skills/Basic_Interference.png) Interference | Nobody likes wizards with mana                      |
 
 ### Buildings
 
