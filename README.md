@@ -90,25 +90,25 @@ _Rules is under correction now. Coming soon..._
 
 _Rules is under correction now. Coming soon..._
 
-| Banned         | Motivation                                  || Allowed        | Motivation                                          |
-|:---------------|:--------------------------------------------||:---------------|:----------------------------------------------------|
-| Path finding   | Permanent pick due to many "bad" surfaces   || Shooting       | Classical skill                                     |
-| Logistics      | Fastest roads should not be abused          || Exploration    | Map is big enough                                   |
-| Diplomacy      | I don't know, may be it will become allowed || Leadership     | I like soup of skeletons and fairies                |
-| Navigation     | Game should be on surface without water     || Wise           | Classical skill                                     |
-| Mysticism      | Use wells or don't use a magic a lot        || Luck           | Just for fun                                        |
-| Eagle eye      | Nobody choose this, don't waste your time   || Necromancy     | Skeletons, skeletons, skeletons, liches... liches?! |
-| Magic of fire  | Berserk on all your army?                   || Eastate        | Too many wants, too little gold                     |
-| Magic of wind  | I don't know, may be it will become allowed || Magic of water | I don't know how you can abuse this                 |
-| Magic of earth | I'm lazy to write "why" for here            || Tactics        | Give a chance to warrior heroes stand for a berserk |
-| Ballistics     | No attacks of well prepared castles         || Attack         | Classical skill                                     |
-| Learning       | I don't know, may be it will become allowed || Literacy       | You can have a second hero and far placed castles   |
-| First aid      | I don't know, may be it will become allowed || Armor          | Classical skill                                     |
-|                |                                             || Intelligence   | If you don't like to drink water from well          |
-|                |                                             || Magic          | Classical skill                                     |
-|                |                                             || Resistance     | We! Are! RESISTANCE! Ommmmmm                        |
-|                |                                             || Artillery      | Last chance or firstly killed unit in the battle    |
-|                |                                             || Interference   | Nobody likes wizards with mana                      |
+| Banned         | Motivation                                  |   | Allowed        | Motivation                                          |
+| :------------- | :------------------------------------------ | - | :------------- | :-------------------------------------------------- |
+| Path finding   | Permanent pick due to many "bad" surfaces   |   | Shooting       | Classical skill                                     |
+| Logistics      | Fastest roads should not be abused          |   | Exploration    | Map is big enough                                   |
+| Diplomacy      | I don't know, may be it will become allowed |   | Leadership     | I like soup of skeletons and fairies                |
+| Navigation     | Game should be on surface without water     |   | Wise           | Classical skill                                     |
+| Mysticism      | Use wells or don't use a magic a lot        |   | Luck           | Just for fun                                        |
+| Eagle eye      | Nobody choose this, don't waste your time   |   | Necromancy     | Skeletons, skeletons, skeletons, liches... liches?! |
+| Magic of fire  | Berserk on all your army?                   |   | Eastate        | Too many wants, too little gold                     |
+| Magic of wind  | I don't know, may be it will become allowed |   | Magic of water | I don't know how you can abuse this                 |
+| Magic of earth | I'm lazy to write "why" for here            |   | Tactics        | Give a chance to warrior heroes stand for a berserk |
+| Ballistics     | No attacks of well prepared castles         |   | Attack         | Classical skill                                     |
+| Learning       | I don't know, may be it will become allowed |   | Literacy       | You can have a second hero and far placed castles   |
+| First aid      | I don't know, may be it will become allowed |   | Armor          | Classical skill                                     |
+|                |                                             |   | Intelligence   | If you don't like to drink water from well          |
+|                |                                             |   | Magic          | Classical skill                                     |
+|                |                                             |   | Resistance     | We! Are! RESISTANCE! Ommmmmm                        |
+|                |                                             |   | Artillery      | Last chance or firstly killed unit in the battle    |
+|                |                                             |   | Interference   | Nobody likes wizards with mana                      |
 
 ### Buildings
 
