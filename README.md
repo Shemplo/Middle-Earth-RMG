@@ -36,7 +36,7 @@ with opponent heroes.
 any obstacles. If second hero have no more move points and blocks the route then you have to banish him
 (and never buy any other second heroes).  
 * Player who can held battlefield castle (in zone 3) for 1 month since he captured this castle and write
-to chat "I captured middle castle" is the winner. Player can capture that castle but doen't write message
+to chat "I captured middle castle" is the winner. Player can capture that castle and can not write message
 to the chat. In this case timer will go since day when player decided to write specified message to chat.
 * Each player have 1 restart until 112 (inclusive).
 
@@ -99,13 +99,12 @@ _Rules is under correction now. Coming soon..._
 | Mysticism      | Use wells or don't use a magic a lot        |   | Luck           | Just for fun                                        |
 | Eagle eye      | Nobody choose this, don't waste your time   |   | Necromancy     | Skeletons, skeletons, skeletons, liches... liches?! |
 | Magic of fire  | Berserk on all your army?                   |   | Eastate        | Too many wants, too little gold                     |
-| Magic of wind  | I don't know, may be it will become allowed |   | Magic of water | I don't know how you can abuse this                 |
-| Magic of earth | I'm lazy to write "why" for here            |   | Tactics        | Give a chance to warrior heroes stand for a berserk |
-| Ballistics     | No attacks of well prepared castles         |   | Attack         | Classical skill                                     |
-| Learning       | I don't know, may be it will become allowed |   | Literacy       | You can have a second hero and far placed castles   |
-| First aid      | I don't know, may be it will become allowed |   | Armor          | Classical skill                                     |
-|                |                                             |   | Intelligence   | If you don't like to drink water from well          |
-|                |                                             |   | Magic          | Classical skill                                     |
+| Magic of water | I don't know, may be it will become allowed |   | Tactics        | Give a chance to warrior heroes stand for a berserk |
+| Magic of wind  | I don't know, may be it will become allowed |   | Attack         | Classical skill                                     |
+| Magic of earth | I'm lazy to write "why" for here            |   | Literacy       | You can have a second hero and far placed castles   |
+| Ballistics     | No attacks of well prepared castles         |   | Armor          | Classical skill                                     |
+| Learning       | I don't know, may be it will become allowed |   | Intelligence   | If you don't like to drink water from well          |
+| First aid      | I don't know, may be it will become allowed |   | Magic          | Classical skill                                     |
 |                |                                             |   | Resistance     | We! Are! RESISTANCE! Ommmmmm                        |
 |                |                                             |   | Artillery      | Last chance or firstly killed unit in the battle    |
 |                |                                             |   | Interference   | Nobody likes wizards with mana                      |
