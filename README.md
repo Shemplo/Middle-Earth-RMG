@@ -35,6 +35,9 @@ with opponent heroes.
     * Second hero can't block path on road if there is only 1 tile in width between
 any obstacles. If second hero have no more move points and blocks the route then you have to banish him
 (and never buy any other second heroes).  
+* Player who can held battlefield castle (in zone 3) for 1 month since he captured this castle and write
+to chat "I captured middle castle" is the winner. Player can capture that castle but doen't write message
+to the chat. In this case timer will go since day when player decided to write specified message to chat.
 * Each player have 1 restart until 112 (inclusive).
 
 ### Template
@@ -43,17 +46,24 @@ Scheme of this template:
 
 ![Template schema](template.png)
 
-There are 2 players zones (1-red and 2-blue) that are full of different resources and monster buildings
-of 5, 6 and 7 levels, but there are not artifacts (only in black towers which are not more than 3).
-Each player zone is connected to the corresponding treasure zone (5 for red and 6 for blue). Treasure
-zones full of artifacts and boxes but they are covered with a sand which makes difficult to explore them.
-Also there are no any monsters buildings at all. In between treasure zones there are two possible ways:
-explicit by road through the one more zone of tower (3), and implicit through portals to desert zone (7).
-Main idea of tower zone (3) is a battlefield where is almost nothing useful except tower in the middle.
-Main idea of desert zone (7) is a hidden attack avoiding classic battlefield. Also in desert zone you
-can get extra boost for hero characteristics and skills. There is one more canyon zone (4). It's well
-protected but it's the shortest path between players. If you think that you are powerful you can reach
-you opponent through this path. 
+* **Player zones (1-red, 2-blue)**. These zones are full of resources, mines, sawmills, just mills 
+and monster buildings of 3 (x4), 4 (x2) and 5 (x2) levels. Seldom you can find hero improvement 
+objects x3 for each kind of characteristics, and one library.
+* **Player treasure zones (5-red, 6-blue)**. These zones are full of artifacts and boxes of the 
+highest value. Also there are 2 towns (1 of them guaranteed that it has the same type as user home 
+castle). This zone is always covered with sand to make exploration more difficult. In this zone 
+there is not monster buildings at all.
+* **Battlefield zone (3)**. This zone is planned as classical battlefield. There is almost nothing 
+that can distract you from battle with your opponent. One thing that can really impact is that in
+this zone hidden 5 relic artifacts and some black towers. Everything else is just a tower castle 
+snow and some stone-like resources. And monsters (to boost your skeletons)!
+* **Hidden treasure zone (7)**. If you think that home treasures is all that you can find on this
+map then you are wrong. There is one more neutral treasure zone full of artifacts and some useful
+buildings (may be). You can get to it from zones 5 and 6 through the portals in some edge of your
+home treasure zone.
+* **Terra incognita (4)**. Nobody knows what can be there. But they tell that it's the shortest
+path between players and there is one stronghold castle. Might be that there is something else
+but it's not exact. 
 
 Example of generated map using this template is following:
 
@@ -71,9 +81,34 @@ _Rules is under correction now. Coming soon..._
 
 _Rules is under correction now. Coming soon..._
 
+* All heroes with specialization on monsters of 3, 4 and 5 levels are banned.
+* All heroes with sea/ocean specializations are banned.
+* All heroes with eagle eye specialization are banned.
+* All heroes with travel specializations are banned.
+
 ### Skills
 
 _Rules is under correction now. Coming soon..._
+
+| Banned         | Motivation                                  || Allowed        | Motivation                                          |
+|:---------------|:--------------------------------------------||:---------------|:----------------------------------------------------|
+| Path finding   | Permanent pick due to many "bad" surfaces   || Shooting       | Classical skill                                     |
+| Logistics      | Fastest roads should not be abused          || Exploration    | Map is big enough                                   |
+| Diplomacy      | I don't know, may be it will become allowed || Leadership     | I like soup of skeletons and fairies                |
+| Navigation     | Game should be on surface without water     || Wise           | Classical skill                                     |
+| Mysticism      | Use wells or don't use a magic a lot        || Luck           | Just for fun                                        |
+| Eagle eye      | Nobody choose this, don't waste your time   || Necromancy     | Skeletons, skeletons, skeletons, liches... liches?! |
+| Magic of fire  | Berserk on all your army?                   || Eastate        | Too many wants, too little gold                     |
+| Magic of wind  | I don't know, may be it will become allowed || Magic of water | I don't know how you can abuse this                 |
+| Magic of earth | I'm lazy to write "why" for here            || Tactics        | Give a chance to warrior heroes stand for a berserk |
+| Ballistics     | No attacks of well prepared castles         || Attack         | Classical skill                                     |
+| Learning       | I don't know, may be it will become allowed || Literacy       | You can have a second hero and far placed castles   |
+| First aid      | I don't know, may be it will become allowed || Armor          | Classical skill                                     |
+|                |                                             || Intelligence   | If you don't like to drink water from well          |
+|                |                                             || Magic          | Classical skill                                     |
+|                |                                             || Resistance     | We! Are! RESISTANCE! Ommmmmm                        |
+|                |                                             || Artillery      | Last chance or firstly killed unit in the battle    |
+|                |                                             || Interference   | Nobody likes wizards with mana                      |
 
 ### Buildings
 
