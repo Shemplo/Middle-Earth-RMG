@@ -44,10 +44,10 @@ to the chat. In this case timer will go since day when player decided to write s
 
 Scheme of this template:
 
-![Template schema](template.png)
+![Template schema](gfx/template.png)
 
 * **Player zones (1-red, 2-blue)**. These zones are full of resources, mines, sawmills, just mills 
-and monster buildings of 3 (x4), 4 (x2) and 5 (x2) levels. Seldom you can find hero improvement 
+and monster buildings of 3 (x4), 4 (x2) and 5 (x1) levels. Seldom you can find hero improvement 
 objects x3 for each kind of characteristics, and one library.
 * **Player treasure zones (5-red, 6-blue)**. These zones are full of artifacts and boxes of the 
 highest value. Also there are 2 towns (1 of them guaranteed that it has the same type as user home 
@@ -67,7 +67,7 @@ but it's not exact.
 
 Example of generated map using this template is following:
 
-![Template example](example.png)
+![Template example](gfx/example.png)
 
 ### Artifacts
 
@@ -80,37 +80,56 @@ _Rules is under correction now. Coming soon..._
 
 _Rules is under correction now. Coming soon..._
 
+![Armageddon](gfx/spells/armageddon.png) 
+![Blind](gfx/spells/blind.png) 
+![Cure](gfx/spells/cure.png) 
+![Destroying Ray](gfx/spells/ray.png) 
+![Dimensions Door](gfx/spells/door.png) 
+![Fire Shield](gfx/spells/fireshield.png) 
+![Fly](gfx/spells/fly.png) 
+![Forgetfulness](gfx/spells/forget.png) 
+![Frenzy](gfx/spells/frenzy.png) 
+![Haste](gfx/spells/haste.png) 
+![Hypnotize](gfx/spells/hypnotize.png) 
+![Implosion](gfx/spells/implosion.png) 
+![Magic Mirror](gfx/spells/mirror.png) 
+![Meteor Shower](gfx/spells/meteorshower.png) 
+![Ressurection](gfx/spells/ressurection.png) 
+![Scuttle Boat](gfx/spells/scutb.png) 
+![Slayer](gfx/spells/slayer.png) 
+![Slow](gfx/spells/slow.png) 
+![Summon Boat](gfx/spells/summb.png) 
+![Town Portal](gfx/spells/townportal.png) 
+![Water Walk](gfx/spells/walk.png) 
+
 ### Heroes
 
 _Rules is under correction now. Coming soon..._
 
-* All heroes with specialization on monsters of 3, 4 and 5 levels are banned.
-* All heroes with sea/ocean specializations are banned.
-* All heroes with eagle eye specialization are banned.
-* All heroes with travel specializations are banned.
+* All heroes with specialization on monsters of 3, 4 and 5 levels are banned
+* All heroes with sea/ocean specializations are banned
+* All heroes with eagle eye specialization are banned
+* All heroes with travel specializations are banned
 
 ### Skills
 
 _Rules is under correction now. Coming soon..._
 
-| Banned                                                    | Motivation                                  |   | Allowed                                                  | Motivation                                          |
-| :-------------------------------------------------------- | :------------------------------------------ | - | :------------------------------------------------------- | :-------------------------------------------------- |
-| ![Skill](gfx/skills/Basic_Pathfinding.png) Pathfinding    | Permanent pick due to many "bad" surfaces   |   | ![Skill](gfx/skills/Basic_Archery.png)      Archery      | Classical skill                                     |
-| ![Skill](gfx/skills/Basic_Logistics.png)   Logistics      | Fastest roads should not be abused          |   | ![Skill](gfx/skills/Basic_Scouting.png)     Scouting     | Map is big enough                                   |
-| ![Skill](gfx/skills/Basic_Diplomacy.png)   Diplomacy      | I don't know, may be it will become allowed |   | ![Skill](gfx/skills/Basic_Leadership.png)   Leadership   | I like soup of skeletons and fairies                |
-| ![Skill](gfx/skills/Basic_Navigation.png)  Navigation     | Game should be on surface without water     |   | ![Skill](gfx/skills/Basic_Wisdom.png)       Wisdom       | Classical skill                                     |
-| ![Skill](gfx/skills/Basic_Mysticism.png)   Mysticism      | Use wells or don't use a magic a lot        |   | ![Skill](gfx/skills/Basic_Luck.png)         Luck         | Just for fun                                        |
-| ![Skill](gfx/skills/Basic_Eagle_Eye.png)   Eagle Eye      | Nobody choose this, don't waste your time   |   | ![Skill](gfx/skills/Basic_Necromancy.png)   Necromancy   | Skeletons, skeletons, skeletons, liches... liches?! |
-| ![Skill](gfx/skills/Basic_Fire_Magic.png)  Fire Magic     | Berserk on all your army?                   |   | ![Skill](gfx/skills/Basic_Estates.png)     Estates       | Too many wants, too little gold                     |
-| ![Skill](gfx/skills/Basic_Water_Magic.png) Water Magic    | I don't know, may be it will become allowed |   | ![Skill](gfx/skills/Basic_Tactics.png)      Tactics      | Give a chance to warrior heroes stand for a berserk |
-| ![Skill](gfx/skills/Basic_Air_Magic.png)   Air Magic      | I don't know, may be it will become allowed |   | ![Skill](gfx/skills/Basic_Offense.png)      Offense      | Classical skill                                     |
-| ![Skill](gfx/skills/Basic_Earth_Magic.png) Earth Magic    | I'm lazy to write "why" for here            |   | ![Skill](gfx/skills/Basic_Scholar.png)      Scholar      | You can have a second hero and far placed castles   |
-| ![Skill](gfx/skills/Basic_Ballistics.png)  Ballistics     | No attacks of well prepared castles         |   | ![Skill](gfx/skills/Basic_Armorer.png)      Armorer      | Classical skill                                     |
-| ![Skill](gfx/skills/Basic_Learning.png)    Learning       | I don't know, may be it will become allowed |   | ![Skill](gfx/skills/Basic_Intelligence.png) Intelligence | If you don't like to drink water from well          |
-| ![Skill](gfx/skills/Basic_First_Aid.png)   First Aid      | I don't know, may be it will become allowed |   | ![Skill](gfx/skills/Basic_Sorcery.png)      Sorcery      | Classical skill                                     |
-|                                                           |                                             |   | ![Skill](gfx/skills/Basic_Resistance.png)   Resistance   | We! Are! RESISTANCE! Ommmmmm                        |
-|                                                           |                                             |   | ![Skill](gfx/skills/Basic_Artillery.png)    Artillery    | Last chance or firstly killed unit in the battle    |
-|                                                           |                                             |   | ![Skill](gfx/skills/Basic_Interference.png) Interference | Nobody likes wizards with mana                      |
+Banned:
+
+![Air Magic](gfx/skills/Basic_Air_Magic.png) 
+![Ballistics](gfx/skills/Basic_Ballistics.png) 
+![Diplomacy](gfx/skills/Basic_Diplomacy.png) 
+![Eagle Eye](gfx/skills/Basic_Eagle_Eye.png) 
+![Earth Magic](gfx/skills/Basic_Earth_Magic.png) 
+![Fire Magic](gfx/skills/Basic_Fire_Magic.png) 
+![First Aid](gfx/skills/Basic_First_Aid.png) 
+![Learning](gfx/skills/Basic_Learning.png) 
+![Logistics](gfx/skills/Basic_Logistics.png) 
+![Mysticism](gfx/skills/Basic_Mysticism.png) 
+![Navigation](gfx/skills/Basic_Navigation.png) 
+![Pathfinding](gfx/skills/Basic_Pathfinding.png) 
+![Water Magic](gfx/skills/Basic_Water_Magic.png)
 
 ### Buildings
 
