@@ -85,7 +85,6 @@ Banned:
 ![Armageddon](gfx/spells/armageddon.png) 
 ![Blind](gfx/spells/blind.png) 
 ![Cure](gfx/spells/cure.png) 
-![Destroying Ray](gfx/spells/ray.png) 
 ![Dimensions Door](gfx/spells/door.png) 
 ![Fire Shield](gfx/spells/fireshield.png) 
 ![Fly](gfx/spells/fly.png) 
