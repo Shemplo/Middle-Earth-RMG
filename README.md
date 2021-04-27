@@ -107,10 +107,123 @@ Banned:
 
 _Rules is under correction now. Coming soon..._
 
-* All heroes with specialization on monsters of 3, 4 and 5 levels are banned
-* All heroes with sea/ocean specializations are banned
-* All heroes with eagle eye specialization are banned
-* All heroes with travel specializations are banned
+Banned:
+
+##### Castle:
+![Edric](gfx/heroes/Hero_Edric.png) 
+![Ingham](gfx/heroes/Hero_Ingham.png) 
+![Sanya](gfx/heroes/Hero_Sanya.png) 
+![Sorsha](gfx/heroes/Hero_Sorsha.png) 
+![Sylvia](gfx/heroes/Hero_Sylvia.png) 
+( 
+![Catherine](gfx/heroes/Hero_Catherine.png) 
+![Roland](gfx/heroes/Hero_Roland.png) 
+![Sir Mullich](gfx/heroes/Hero_Sir_Mullich.png) 
+)
+
+##### Rampart:
+![Aeris](gfx/heroes/Hero_Aeris.png) 
+![Kyrre](gfx/heroes/Hero_Kyrre.png) 
+![Ivor](gfx/heroes/Hero_Ivor.png) 
+![Malcom](gfx/heroes/Hero_Malcom.png) 
+![Ryland](gfx/heroes/Hero_Ryland.png) 
+( 
+![Gelu](gfx/heroes/Hero_Gelu.png) 
+![Jiselle](gfx/heroes/Hero_Jiselle.png)
+)
+
+##### Tower:
+![Astral](gfx/heroes/Hero_Astral.png) 
+![Cyra](gfx/heroes/Hero_Cyra.png) 
+![Iona](gfx/heroes/Hero_Iona.png) 
+![Josephine](gfx/heroes/Hero_Josephine.png) 
+![Serena](gfx/heroes/Hero_Serena.png) 
+![Thane](gfx/heroes/Hero_Thane.png) 
+![Theodorus](gfx/heroes/Hero_Theodorus.png) 
+( 
+![Dracon](gfx/heroes/Hero_Dracon.png) 
+)
+
+##### Inferno:
+![Ash](gfx/heroes/Hero_Ash.png) 
+![Fiona](gfx/heroes/Hero_Fiona.png) 
+![Marius](gfx/heroes/Hero_Marius.png) 
+![Nymus](gfx/heroes/Hero_Nymus.png) 
+![Xyron](gfx/heroes/Hero_Xyron.png) 
+( 
+![Xeron](gfx/heroes/Hero_Xeron.png) 
+)
+
+##### Necropolis:
+![Aislinn](gfx/heroes/Hero_Aislinn.png) 
+![Charna](gfx/heroes/Hero_Charna.png) 
+![Moandor](gfx/heroes/Hero_Moandor.png) 
+![Nimbus](gfx/heroes/Hero_Nimbus.png) 
+![Thant](gfx/heroes/Hero_Thant.png) 
+![Vokial](gfx/heroes/Hero_Vokial.png) 
+( 
+![Lord Haart Lich](gfx/heroes/Hero_Lord_Haart_Death_Knight.png) 
+![Ranlu](gfx/heroes/Hero_Ranlu.png) 
+)
+
+##### Dungeon:
+![Ajit](gfx/heroes/Hero_Ajit.png) 
+![Alamar](gfx/heroes/Hero_Alamar.png) 
+![Dace](gfx/heroes/Hero_Dace.png) 
+![Geon](gfx/heroes/Hero_Geon.png) 
+![Gunnar](gfx/heroes/Hero_Gunnar.png) 
+![Jeddite](gfx/heroes/Hero_Jeddite.png) 
+( 
+![Mutare](gfx/heroes/Hero_Mutare.png) 
+![Mutare Drake](gfx/heroes/Hero_Mutare_Drake.png) 
+)
+
+##### Stronghold:
+![Dessa](gfx/heroes/Hero_Dessa.png) 
+![Krellion](gfx/heroes/Hero_Krellion.png) 
+![Jabarkas](gfx/heroes/Hero_Jabarkas.png) 
+![Oris](gfx/heroes/Hero_Oris.png) 
+![Shiva](gfx/heroes/Hero_Shiva.png) 
+![Terek](gfx/heroes/Hero_Terek.png) 
+![Vey](gfx/heroes/Hero_Vey.png) 
+( 
+![Boragus](gfx/heroes/Hero_Boragus.png) 
+![Kilgor](gfx/heroes/Hero_Kilgor.png) 
+)
+
+##### Fortress:
+![Alkin](gfx/heroes/Hero_Alkin.png) 
+![Bron](gfx/heroes/Hero_Bron.png) 
+![Korbac](gfx/heroes/Hero_Korbac.png) 
+![Tiva](gfx/heroes/Hero_Tiva.png) 
+![Voy](gfx/heroes/Hero_Voy.png) 
+( 
+![Kinkery](gfx/heroes/Hero_Kinkery.png) 
+)
+
+##### Conflux:
+![Aenain](gfx/heroes/Hero_Aenain.png) 
+![Brissa](gfx/heroes/Hero_Brissa.jpg) 
+![Ciele](gfx/heroes/Hero_Ciele.jpg) 
+![Erdamon](gfx/heroes/Hero_Erdamon.png) 
+![Fiur](gfx/heroes/Hero_Fiur.png) 
+![Gelare](gfx/heroes/Hero_Gelare.jpg) 
+![Grindan](gfx/heroes/Hero_Grindan.png) 
+![Ignissa](gfx/heroes/Hero_Ignissa.png) 
+![Inteus](gfx/heroes/Hero_Inteus.jpg) 
+![Kalt](gfx/heroes/Hero_Kalt.png) 
+![Labetha](gfx/heroes/Hero_Labetha.png) 
+![Lacus](gfx/heroes/Hero_Lacus.png) 
+![Luna](gfx/heroes/Hero_Luna.png) 
+![Thunar](gfx/heroes/Hero_Thunar.png), 
+
+##### Bay:
+![Anabel](gfx/heroes/Hero_Anabel.png) 
+![Casmetra](gfx/heroes/Hero_Casmetra.png) 
+![Elmore](gfx/heroes/Hero_Elmore.png) 
+![Illor](gfx/heroes/Hero_Illor.png) 
+![Manfred](gfx/heroes/Hero_Manfred.png) 
+![Miriam](gfx/heroes/Hero_Miriam.png) 
 
 ### Skills
 
