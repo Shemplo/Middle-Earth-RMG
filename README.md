@@ -13,12 +13,12 @@ one knows what awaits you on that path, you may need a guide or strong army. Wel
 3. Start the game  
 	3.1. Choose singleplayer (or multiplayer)  
 	3.2. Select random map mode  
-	3.3. Find out and choose `Middle Earth (2p, XL)` template  
+	3.3. Find out and choose `Middle Earth (2p, M-XL)` template  
 4. Set up game and start as usual
 
 ### Rules
 
-* Initial set up: fast roads, no water, normal monsters, 160%.
+* Initial set up: L size, fast roads, no water, normal monsters, 160%.
 * You have to play with 1 hero which was chosen at the beginning of game. 
 You are defeated if you lose this hero (in any way).  
     * If two heroes are lost (disappeared) after battle the winner is the player 
@@ -108,16 +108,11 @@ Banned:
 ![Sanya](gfx/heroes/Hero_Sanya.png) 
 ![Sorsha](gfx/heroes/Hero_Sorsha.png) 
 ![Sylvia](gfx/heroes/Hero_Sylvia.png) 
-![Catherine](gfx/heroes/Hero_Catherine.png) 
-![Roland](gfx/heroes/Hero_Roland.png) 
-![Sir Mullich](gfx/heroes/Hero_Sir_Mullich.png) 
 ![Aeris](gfx/heroes/Hero_Aeris.png) 
 ![Kyrre](gfx/heroes/Hero_Kyrre.png) 
 ![Ivor](gfx/heroes/Hero_Ivor.png) 
 ![Malcom](gfx/heroes/Hero_Malcom.png) 
 ![Ryland](gfx/heroes/Hero_Ryland.png) 
-![Gelu](gfx/heroes/Hero_Gelu.png) 
-![Jiselle](gfx/heroes/Hero_Jiselle.png) 
 ![Astral](gfx/heroes/Hero_Astral.png) 
 ![Cyra](gfx/heroes/Hero_Cyra.png) 
 ![Iona](gfx/heroes/Hero_Iona.png) 
@@ -125,7 +120,6 @@ Banned:
 ![Serena](gfx/heroes/Hero_Serena.png) 
 ![Thane](gfx/heroes/Hero_Thane.png) 
 ![Theodorus](gfx/heroes/Hero_Theodorus.png) 
-![Dracon](gfx/heroes/Hero_Dracon.png) 
 ![Ash](gfx/heroes/Hero_Ash.png) 
 ![Fiona](gfx/heroes/Hero_Fiona.png) 
 ![Marius](gfx/heroes/Hero_Marius.png) 
@@ -138,7 +132,6 @@ Banned:
 ![Nimbus](gfx/heroes/Hero_Nimbus.png) 
 ![Thant](gfx/heroes/Hero_Thant.png) 
 ![Vokial](gfx/heroes/Hero_Vokial.png) 
-![Lord Haart Lich](gfx/heroes/Hero_Lord_Haart_Death_Knight.png) 
 ![Ranlu](gfx/heroes/Hero_Ranlu.png) 
 ![Ajit](gfx/heroes/Hero_Ajit.png) 
 ![Alamar](gfx/heroes/Hero_Alamar.png) 
@@ -146,8 +139,6 @@ Banned:
 ![Geon](gfx/heroes/Hero_Geon.png) 
 ![Gunnar](gfx/heroes/Hero_Gunnar.png) 
 ![Jeddite](gfx/heroes/Hero_Jeddite.png) 
-![Mutare](gfx/heroes/Hero_Mutare.png) 
-![Mutare Drake](gfx/heroes/Hero_Mutare_Drake.png) 
 ![Dessa](gfx/heroes/Hero_Dessa.png) 
 ![Krellion](gfx/heroes/Hero_Krellion.png) 
 ![Jabarkas](gfx/heroes/Hero_Jabarkas.png) 
@@ -155,8 +146,6 @@ Banned:
 ![Shiva](gfx/heroes/Hero_Shiva.png) 
 ![Terek](gfx/heroes/Hero_Terek.png) 
 ![Vey](gfx/heroes/Hero_Vey.png) 
-![Boragus](gfx/heroes/Hero_Boragus.png) 
-![Kilgor](gfx/heroes/Hero_Kilgor.png) 
 ![Alkin](gfx/heroes/Hero_Alkin.png) 
 ![Bron](gfx/heroes/Hero_Bron.png) 
 ![Korbac](gfx/heroes/Hero_Korbac.png) 
@@ -183,6 +172,20 @@ Banned:
 ![Illor](gfx/heroes/Hero_Illor.png) 
 ![Manfred](gfx/heroes/Hero_Manfred.png) 
 ![Miriam](gfx/heroes/Hero_Miriam.png) 
+
+Banned by default:
+
+![Catherine](gfx/heroes/Hero_Catherine.png) 
+![Roland](gfx/heroes/Hero_Roland.png) 
+![Sir Mullich](gfx/heroes/Hero_Sir_Mullich.png) 
+![Gelu](gfx/heroes/Hero_Gelu.png) 
+![Jiselle](gfx/heroes/Hero_Jiselle.png) 
+![Dracon](gfx/heroes/Hero_Dracon.png) 
+![Lord Haart Lich](gfx/heroes/Hero_Lord_Haart_Death_Knight.png) 
+![Mutare](gfx/heroes/Hero_Mutare.png) 
+![Mutare Drake](gfx/heroes/Hero_Mutare_Drake.png) 
+![Boragus](gfx/heroes/Hero_Boragus.png) 
+![Kilgor](gfx/heroes/Hero_Kilgor.png) 
 
 ### Skills
 
