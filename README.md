@@ -18,8 +18,6 @@ one knows what awaits you on that path, you may need a guide or strong army. Wel
 
 ### Rules
 
-_Rules is under correction now. Coming soon..._
-
 * Initial set up: fast roads, no water, normal monsters, 160%.
 * You have to play with 1 hero which was chosen at the beginning of game. 
 You are defeated if you lose this hero (in any way).  
@@ -51,8 +49,8 @@ and monster buildings of 3 (x4), 4 (x2) and 5 (x1) levels. Seldom you can find h
 objects x3 for each kind of characteristics, and one library.
 * **Player treasure zones (5-red, 6-blue)**. These zones are full of artifacts and boxes of the 
 highest value. Also there are 2 towns (1 of them guaranteed that it has the same type as user home 
-castle). This zone is always covered with sand to make exploration more difficult. In this zone 
-there is not monster buildings at all.
+castle). This zone has wasteland surface to make exploration more difficult but you can find an explorer. 
+In this zone there is not monster buildings at all.
 * **Battlefield zone (3)**. This zone is planned as classical battlefield. There is almost nothing 
 that can distract you from battle with your opponent. One thing that can really impact is that in
 this zone hidden 5 relic artifacts and some black towers. Everything else is just a tower castle 
@@ -77,8 +75,6 @@ _Rules is under correction now. Coming soon..._
 * All magic books
 
 ### Spells
-
-_Rules is under correction now. Coming soon..._
 
 Banned:
 
@@ -105,34 +101,23 @@ Banned:
 
 ### Heroes
 
-_Rules is under correction now. Coming soon..._
-
 Banned:
 
-##### Castle:
 ![Edric](gfx/heroes/Hero_Edric.png) 
 ![Ingham](gfx/heroes/Hero_Ingham.png) 
 ![Sanya](gfx/heroes/Hero_Sanya.png) 
 ![Sorsha](gfx/heroes/Hero_Sorsha.png) 
 ![Sylvia](gfx/heroes/Hero_Sylvia.png) 
-( 
 ![Catherine](gfx/heroes/Hero_Catherine.png) 
 ![Roland](gfx/heroes/Hero_Roland.png) 
 ![Sir Mullich](gfx/heroes/Hero_Sir_Mullich.png) 
-)
-
-##### Rampart:
 ![Aeris](gfx/heroes/Hero_Aeris.png) 
 ![Kyrre](gfx/heroes/Hero_Kyrre.png) 
 ![Ivor](gfx/heroes/Hero_Ivor.png) 
 ![Malcom](gfx/heroes/Hero_Malcom.png) 
 ![Ryland](gfx/heroes/Hero_Ryland.png) 
-( 
 ![Gelu](gfx/heroes/Hero_Gelu.png) 
-![Jiselle](gfx/heroes/Hero_Jiselle.png)
-)
-
-##### Tower:
+![Jiselle](gfx/heroes/Hero_Jiselle.png) 
 ![Astral](gfx/heroes/Hero_Astral.png) 
 ![Cyra](gfx/heroes/Hero_Cyra.png) 
 ![Iona](gfx/heroes/Hero_Iona.png) 
@@ -140,45 +125,29 @@ Banned:
 ![Serena](gfx/heroes/Hero_Serena.png) 
 ![Thane](gfx/heroes/Hero_Thane.png) 
 ![Theodorus](gfx/heroes/Hero_Theodorus.png) 
-( 
 ![Dracon](gfx/heroes/Hero_Dracon.png) 
-)
-
-##### Inferno:
 ![Ash](gfx/heroes/Hero_Ash.png) 
 ![Fiona](gfx/heroes/Hero_Fiona.png) 
 ![Marius](gfx/heroes/Hero_Marius.png) 
 ![Nymus](gfx/heroes/Hero_Nymus.png) 
 ![Xyron](gfx/heroes/Hero_Xyron.png) 
-( 
 ![Xeron](gfx/heroes/Hero_Xeron.png) 
-)
-
-##### Necropolis:
 ![Aislinn](gfx/heroes/Hero_Aislinn.png) 
 ![Charna](gfx/heroes/Hero_Charna.png) 
 ![Moandor](gfx/heroes/Hero_Moandor.png) 
 ![Nimbus](gfx/heroes/Hero_Nimbus.png) 
 ![Thant](gfx/heroes/Hero_Thant.png) 
 ![Vokial](gfx/heroes/Hero_Vokial.png) 
-( 
 ![Lord Haart Lich](gfx/heroes/Hero_Lord_Haart_Death_Knight.png) 
 ![Ranlu](gfx/heroes/Hero_Ranlu.png) 
-)
-
-##### Dungeon:
 ![Ajit](gfx/heroes/Hero_Ajit.png) 
 ![Alamar](gfx/heroes/Hero_Alamar.png) 
 ![Dace](gfx/heroes/Hero_Dace.png) 
 ![Geon](gfx/heroes/Hero_Geon.png) 
 ![Gunnar](gfx/heroes/Hero_Gunnar.png) 
 ![Jeddite](gfx/heroes/Hero_Jeddite.png) 
-( 
 ![Mutare](gfx/heroes/Hero_Mutare.png) 
 ![Mutare Drake](gfx/heroes/Hero_Mutare_Drake.png) 
-)
-
-##### Stronghold:
 ![Dessa](gfx/heroes/Hero_Dessa.png) 
 ![Krellion](gfx/heroes/Hero_Krellion.png) 
 ![Jabarkas](gfx/heroes/Hero_Jabarkas.png) 
@@ -186,22 +155,14 @@ Banned:
 ![Shiva](gfx/heroes/Hero_Shiva.png) 
 ![Terek](gfx/heroes/Hero_Terek.png) 
 ![Vey](gfx/heroes/Hero_Vey.png) 
-( 
 ![Boragus](gfx/heroes/Hero_Boragus.png) 
 ![Kilgor](gfx/heroes/Hero_Kilgor.png) 
-)
-
-##### Fortress:
 ![Alkin](gfx/heroes/Hero_Alkin.png) 
 ![Bron](gfx/heroes/Hero_Bron.png) 
 ![Korbac](gfx/heroes/Hero_Korbac.png) 
 ![Tiva](gfx/heroes/Hero_Tiva.png) 
 ![Voy](gfx/heroes/Hero_Voy.png) 
-( 
 ![Kinkery](gfx/heroes/Hero_Kinkery.png) 
-)
-
-##### Conflux:
 ![Aenain](gfx/heroes/Hero_Aenain.png) 
 ![Brissa](gfx/heroes/Hero_Brissa.jpg) 
 ![Ciele](gfx/heroes/Hero_Ciele.jpg) 
@@ -215,9 +176,7 @@ Banned:
 ![Labetha](gfx/heroes/Hero_Labetha.png) 
 ![Lacus](gfx/heroes/Hero_Lacus.png) 
 ![Luna](gfx/heroes/Hero_Luna.png) 
-![Thunar](gfx/heroes/Hero_Thunar.png), 
-
-##### Bay:
+![Thunar](gfx/heroes/Hero_Thunar.png) 
 ![Anabel](gfx/heroes/Hero_Anabel.png) 
 ![Casmetra](gfx/heroes/Hero_Casmetra.png) 
 ![Elmore](gfx/heroes/Hero_Elmore.png) 
@@ -226,8 +185,6 @@ Banned:
 ![Miriam](gfx/heroes/Hero_Miriam.png) 
 
 ### Skills
-
-_Rules is under correction now. Coming soon..._
 
 Banned:
 
