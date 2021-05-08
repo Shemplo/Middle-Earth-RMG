@@ -206,3 +206,12 @@ Banned:
 ### Buildings
 
 _Rules is under correction now. Coming soon..._
+
+## Related sources and information
+
+* Heroes 3 HotA official [VK group](https://vk.com/h3hota)
+* Heroes 3 HotA official [documentation](https://h3hota.com/en/documentation)
+
+_Disclamer! Name of template is not related to the franchise The Battle for the Middle Earth by J. R. R. Tolkien. The name of template only describes general location of map zones. No copyrights are used._
+
+Some pictures of skills, spells and heroes are taken from [this site](https://homm3sod.ru/)
