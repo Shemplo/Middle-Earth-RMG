@@ -8,13 +8,15 @@ one knows what awaits you on that path, you may need a guide or strong army. Wel
 
 ### Installation
 
-1. Clone repository
-2. Put folder `Middle Earth` to the folder `HotA_RMGTemplates` in Heroes 3 - HotA root folder
-3. Start the game  
+1. Clone repository  
+   > In web version click on green `ↆ Code` button, click on `Download ZIP` button in drop-down list. 
+   > You also can download zip with template from [releases](https://github.com/Shemplo/Middle-Earth-RMG/releases)
+3. Put folder `Middle Earth` to the folder `HotA_RMGTemplates` in Heroes 3 - HotA root folder
+4. Start the game  
 	3.1. Choose singleplayer (or multiplayer)  
 	3.2. Select random map mode  
 	3.3. Find out and choose `Middle Earth (2p, M-XL)` template  
-4. Set up game and start as usual
+5. Set up game and start as usual
 
 ### Rules
 
